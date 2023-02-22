@@ -1,3 +1,14 @@
+# Hey there :wave:
+
+<img src="https://github.com/cptmacp/cptmacp/blob/main/banner.png?raw=true" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/cptmacp/count.svg" />
+</p>
+
+
+
 - 👋 Hi, I’m @cptmacp
 - 👀 I’m interested in Android, Linux and Java.
 - 🌱 I’m currently learning Flutter , Kotlin.
