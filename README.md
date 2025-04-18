@@ -10,7 +10,7 @@
 
 
 - 👋 Hi, I’m @cptmacp
-- 👀 I’m interested in Android, Linux and Java.
+- 👀 I’m interested in Android, Linux and Java and kernel.
 - 🌱 I’m currently learning Flutter , Kotlin.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me cpt.macp@gmail.com
